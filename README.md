@@ -1,2 +1,2 @@
 # haufe25
-Haufe Summer Internship 2025
+Haufe Summer Practice 2025
