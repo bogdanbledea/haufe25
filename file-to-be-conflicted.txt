@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I am the owner.s
+=======
+I am the owner.
+My new text
+>>>>>>> 03eb290 (commit 12)
