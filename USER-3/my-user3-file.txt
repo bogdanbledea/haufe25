@@ -1,1 +1,3 @@
 facem conflictul mai greut :) 
+aaaa
+some text that should remain in the file.
