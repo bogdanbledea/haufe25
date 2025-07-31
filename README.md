@@ -2,6 +2,27 @@
 
 This is the repository for the Git Basics module @ Haufe Summer Practice 2025.
 
+Below are some git games and resources to further improve your git skills:
+
+- Interactive web based game: https://learngitbranching.js.org
+
+- GIT rebase tutorial: https://www.youtube.com/watch?v=f1wnYdLEpgI
+
+- GIT pull vs fetch: https://www.youtube.com/watch?v=T13gDBXarj0
+
+- GIT rebase vs merge: https://www.youtube.com/watch?v=zOnwgxiC0OA
+
+- GIT Resolve merge conflicts: https://www.youtube.com/watch?v=Sqsz1-o7nXk
+
+- GIT Cherry-pick: https://www.youtube.com/watch?v=i657Bg_HAWI&t=1s
+
+- In essence, all of these videos in this playlist would help you understand better: 
+
+https://www.youtube.com/playlist?list=PLfU9XN7w4tFzW200TaCP1W9RTE8jRSHU5
+
+`I will post further info and small challenges.`
+
+
 The course support can be found inside `git-basics-at-haufe.pdf`.
 
 Practical exercises proposed:
