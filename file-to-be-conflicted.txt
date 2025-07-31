@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am the owner.s
+=======
+I am user - 6
+>>>>>>> ef3147f (fixed)
