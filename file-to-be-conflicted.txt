@@ -1,3 +1,7 @@
 I am the owner.
 I am user - 6
 Am modificat acest text - acum este un virus
+
+I am the owner.
+
+Time to be conflicted
