@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am the owner.
 =======
 Time to be conflicted
 >>>>>>> 80e8897 (time to be conflicteeeeeeed)
+=======
+Time to be conflicted
+>>>>>>> 80e8897a95db680ca157676fee360387cf338d49
