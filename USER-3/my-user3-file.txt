@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aaa
+=======
+aaaa
+some text that should remain in the file.
+>>>>>>> 5dd8f1227cd21e1dcc13b736cc81eca131240983
